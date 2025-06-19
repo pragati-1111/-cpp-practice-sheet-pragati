@@ -12,7 +12,7 @@ This repository contains my daily solved C++ practice problems. Each file covers
 
 | S.No | File Name                            | Task Title                            | Description                                                           |
 |------|--------------------------------------|----------------------------------------|-----------------------------------------------------------------------|
-| 1.   | absolute_diff_rev&ori.cpp            | Reverse & Original Diff                | Find reverse of a number and calculate absolute difference            |
+| 1.   |	abs_diff_original_reverse.cpp            | Reverse & Original Diff                | Find reverse of a number and calculate absolute difference            |
 | 2.   | battel_of_num.cpp                    | Number Comparison                      | Compare two numbers based on digit sum or other logic                 |
 | 3.   | div_by_3or5_but_not3&5.cpp           | Custom Divisibility                    | Print numbers divisible by 3 or 5 but not both                        |
 | 4.   | even_sum-odd_sum.cpp                 | Even-Odd Sum                           | Separate and sum even and odd numbers                                 |
